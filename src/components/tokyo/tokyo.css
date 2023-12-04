@@ -1,0 +1,45 @@
+.tokyo-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:30vh;
+    width:100%;
+    background-color: #e6db12;
+
+}
+.tokyo-heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    color: white;
+}
+.para-tokyo{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+}
+.tokyo-inner-container{
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+}
+.tokyo-wel-heading{
+    font-family: "Helvetica";
+    font-size: 30px;
+    color: black;
+    font-weight: 400;
+}
+.tokyo-image-card{
+    height:500px;
+    width:500px;
+}
+.tokyo-city-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin: 20px;
+    flex-wrap: nowrap;
+}
+.text-para{
+    font-size: 20px;
+}

@@ -1,0 +1,32 @@
+.nav-container{
+    display: flex;
+    height: 5vh;
+    width: 100%;
+    background-color:  #343a40 ;
+    padding: 10px;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}
+.nav-heading{
+    font-family: "Helvetica";
+    color:#ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    align-self: center;
+   
+}
+.button-elements{
+    margin-top: 5px;
+    height:20px;
+    text-align: center;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #575c62;
+    font-size: 20px;
+    font-family: "Helvetica";
+}
+
+.white-button{
+    color: white;
+}
